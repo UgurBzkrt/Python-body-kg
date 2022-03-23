@@ -1,5 +1,6 @@
+#!/usr/bin/env python3
 
-print("VÜCUT KİTLE ENDEKSİ HESAPLAMA PROGRAMI 💪")
+print("vucut kitle endeksi hesaplama")
 boy = float(input("Boy (m):"))
 kilo = int(input("Kilo (kg):"))
  
